@@ -12,8 +12,8 @@ import Profile from './pages/Profile'
 import Thread from './pages/Thread'
 import Notifications from './pages/Notifications'
 
-const APP_ID = '1183905'
-const API_KEY = 'mx8gc4kmvpec'
+const APP_ID = '1239333'
+const API_KEY = '4ar2agcv54wk'
 
 export default function App() {
   const userId = getFromStorage('user')
